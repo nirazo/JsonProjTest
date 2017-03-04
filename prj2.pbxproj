@@ -1105,7 +1105,7 @@
           {
             "isa" : "PBXFileReference",
             "includeInIndex" : "0",
-            "path" : "try! Tokyo.appex",
+            "path" : "try! Swift Conference.appex",
             "sourceTree" : "BUILT_PRODUCTS_DIR",
             "explicitFileType" : "wrapper.app-extension"
           }
@@ -1638,7 +1638,7 @@
               "isa" : "PBXTargetDependency",
               "target" : {
                 "isa" : "PBXNativeTarget",
-                "name" : "try! Tokyo",
+                "name" : "try! Swift Conference",
                 "productName" : "try! Tokyo",
                 "productType" : "com.apple.product-type.app-extension",
                 "buildRules" : [
@@ -1647,7 +1647,7 @@
                 "productReference" : {
                   "isa" : "PBXFileReference",
                   "includeInIndex" : "0",
-                  "path" : "try! Tokyo.appex",
+                  "path" : "try! Swift Conference.appex",
                   "sourceTree" : "BUILT_PRODUCTS_DIR",
                   "explicitFileType" : "wrapper.app-extension"
                 },
@@ -3012,7 +3012,7 @@
                   "fileRef" : {
                     "isa" : "PBXFileReference",
                     "includeInIndex" : "0",
-                    "path" : "try! Tokyo.appex",
+                    "path" : "try! Swift Conference.appex",
                     "sourceTree" : "BUILT_PRODUCTS_DIR",
                     "explicitFileType" : "wrapper.app-extension"
                   }
@@ -3474,7 +3474,7 @@
               "isa" : "PBXTargetDependency",
               "target" : {
                 "isa" : "PBXNativeTarget",
-                "name" : "try! Tokyo",
+                "name" : "try! Swift Conference",
                 "productName" : "try! Tokyo",
                 "productType" : "com.apple.product-type.app-extension",
                 "buildRules" : [
@@ -3483,7 +3483,7 @@
                 "productReference" : {
                   "isa" : "PBXFileReference",
                   "includeInIndex" : "0",
-                  "path" : "try! Tokyo.appex",
+                  "path" : "try! Swift Conference.appex",
                   "sourceTree" : "BUILT_PRODUCTS_DIR",
                   "explicitFileType" : "wrapper.app-extension"
                 },
@@ -4848,7 +4848,7 @@
                   "fileRef" : {
                     "isa" : "PBXFileReference",
                     "includeInIndex" : "0",
-                    "path" : "try! Tokyo.appex",
+                    "path" : "try! Swift Conference.appex",
                     "sourceTree" : "BUILT_PRODUCTS_DIR",
                     "explicitFileType" : "wrapper.app-extension"
                   }
@@ -4963,7 +4963,7 @@
       {
         "isa" : "PBXFileReference",
         "includeInIndex" : "0",
-        "path" : "try! Tokyo.appex",
+        "path" : "try! Swift Conference.appex",
         "sourceTree" : "BUILT_PRODUCTS_DIR",
         "explicitFileType" : "wrapper.app-extension"
       }
@@ -5359,7 +5359,7 @@
           "isa" : "PBXTargetDependency",
           "target" : {
             "isa" : "PBXNativeTarget",
-            "name" : "try! Tokyo",
+            "name" : "try! Swift Conference",
             "productName" : "try! Tokyo",
             "productType" : "com.apple.product-type.app-extension",
             "buildRules" : [
@@ -5368,7 +5368,7 @@
             "productReference" : {
               "isa" : "PBXFileReference",
               "includeInIndex" : "0",
-              "path" : "try! Tokyo.appex",
+              "path" : "try! Swift Conference.appex",
               "sourceTree" : "BUILT_PRODUCTS_DIR",
               "explicitFileType" : "wrapper.app-extension"
             },
@@ -6733,7 +6733,7 @@
               "fileRef" : {
                 "isa" : "PBXFileReference",
                 "includeInIndex" : "0",
-                "path" : "try! Tokyo.appex",
+                "path" : "try! Swift Conference.appex",
                 "sourceTree" : "BUILT_PRODUCTS_DIR",
                 "explicitFileType" : "wrapper.app-extension"
               }
@@ -7189,7 +7189,7 @@
                 "isa" : "PBXTargetDependency",
                 "target" : {
                   "isa" : "PBXNativeTarget",
-                  "name" : "try! Tokyo",
+                  "name" : "try! Swift Conference",
                   "productName" : "try! Tokyo",
                   "productType" : "com.apple.product-type.app-extension",
                   "buildRules" : [
@@ -7198,7 +7198,7 @@
                   "productReference" : {
                     "isa" : "PBXFileReference",
                     "includeInIndex" : "0",
-                    "path" : "try! Tokyo.appex",
+                    "path" : "try! Swift Conference.appex",
                     "sourceTree" : "BUILT_PRODUCTS_DIR",
                     "explicitFileType" : "wrapper.app-extension"
                   },
@@ -8563,7 +8563,7 @@
                     "fileRef" : {
                       "isa" : "PBXFileReference",
                       "includeInIndex" : "0",
-                      "path" : "try! Tokyo.appex",
+                      "path" : "try! Swift Conference.appex",
                       "sourceTree" : "BUILT_PRODUCTS_DIR",
                       "explicitFileType" : "wrapper.app-extension"
                     }
@@ -9090,7 +9090,7 @@
                 "isa" : "PBXTargetDependency",
                 "target" : {
                   "isa" : "PBXNativeTarget",
-                  "name" : "try! Tokyo",
+                  "name" : "try! Swift Conference",
                   "productName" : "try! Tokyo",
                   "productType" : "com.apple.product-type.app-extension",
                   "buildRules" : [
@@ -9099,7 +9099,7 @@
                   "productReference" : {
                     "isa" : "PBXFileReference",
                     "includeInIndex" : "0",
-                    "path" : "try! Tokyo.appex",
+                    "path" : "try! Swift Conference.appex",
                     "sourceTree" : "BUILT_PRODUCTS_DIR",
                     "explicitFileType" : "wrapper.app-extension"
                   },
@@ -10464,7 +10464,7 @@
                     "fileRef" : {
                       "isa" : "PBXFileReference",
                       "includeInIndex" : "0",
-                      "path" : "try! Tokyo.appex",
+                      "path" : "try! Swift Conference.appex",
                       "sourceTree" : "BUILT_PRODUCTS_DIR",
                       "explicitFileType" : "wrapper.app-extension"
                     }
@@ -11176,7 +11176,7 @@
     },
     {
       "isa" : "PBXNativeTarget",
-      "name" : "try! Tokyo",
+      "name" : "try! Swift Conference",
       "productName" : "try! Tokyo",
       "productType" : "com.apple.product-type.app-extension",
       "buildRules" : [
@@ -11185,7 +11185,7 @@
       "productReference" : {
         "isa" : "PBXFileReference",
         "includeInIndex" : "0",
-        "path" : "try! Tokyo.appex",
+        "path" : "try! Swift Conference.appex",
         "sourceTree" : "BUILT_PRODUCTS_DIR",
         "explicitFileType" : "wrapper.app-extension"
       },
